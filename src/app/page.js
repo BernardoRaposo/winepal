@@ -107,7 +107,7 @@ export default function Home() {
                 </div>
 
                 <div className="bg-[#FAF4EB]/10 rounded-2xl p-6">
-                  <p className="text-[#FAF4EB]/90 leading-relaxed text-center italic">"{result.pairing_rationale}"</p>
+                  <p className="text-[#FAF4EB]/90 leading-relaxed text-center italic">&quot;{result.pairing_rationale}&quot;</p>
                 </div>
               </div>
             </div>
