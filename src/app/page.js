@@ -209,7 +209,6 @@ export default function Home() {
               id="image-upload"
               type="file"
               accept="image/*"
-              capture="environment"
               onChange={handleImageUpload}
               ref={inputRef}
               className="hidden"
