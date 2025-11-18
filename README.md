@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# WinePal
 
-## Getting Started
+An AI-powered sommelier that helps you discover the perfect wine pairing for any dish.  
+WinePal turns wine selection into a simple, fun, and beautifully designed experience.
 
-First, run the development server:
+## 🚀 Features
+- 🍷 AI-driven wine recommendations  
+- 🍽 Pair dishes to ideal wine styles  
+- 📱 Mobile-friendly interface  
+- ⚡ Fast, clean UI  
+- 🎨 Tailored for everyday wine lovers
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🧠 Why I Built This
+I was going on a date and found out she liked red wine.
+And I wanted to make sure I knew the right wine to ask for.  
+WinePal helps people — experts or beginners — make confident choices instantly.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠 Tech Stack
+- Next.js  
+- Tailwind CSS  
+- OPEN AI API 
+- Vercel Deployment
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 📸 Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![alt text](public/image.png)
 
-## Learn More
+## 🧪 Future Improvements
+- Create users structure
+- Personalized taste profiles
+- Sharing on social media button
+- Save favorite pairings
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🔗 Live Demo
+https://usewinepal.shop/
